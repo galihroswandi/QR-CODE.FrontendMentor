@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/galihroswandi/QR-CODE.FrontendMentor)
-- Live Site URL: [Add live site URL here](https://qrcode.frontendmentor.vercel.app)
+- Live Site URL: [Add live site URL here](https://qrcode-fementor.vercel.app/?vercelToolbarCode=rk6YYQCkC7oNSR-)
 
 ## My process
 
@@ -51,7 +51,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Galih Roswandi](https://qrcode.frontendmentor.vercel.app)
+- Website - [Galih Roswandi](https://qrcode-fementor.vercel.app/?vercelToolbarCode=rk6YYQCkC7oNSR-)
 - Frontend Mentor - [@galihroswandi](https://www.frontendmentor.io/profile/galihroswandi)
 - Instagram - [@galih_roswandi](https://instagram.com/galih_roswandi)
 
